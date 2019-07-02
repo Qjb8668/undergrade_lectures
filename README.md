@@ -1,1 +1,1 @@
-# undergrade_lectures
+# undergraduate_course
